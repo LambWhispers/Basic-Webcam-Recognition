@@ -24,3 +24,5 @@ known_face_names = ["Lamb Whisper"]  # Add more as needed
 
 There is just only me, Lamb Whispers. 
 ![108906351_p2](https://github.com/user-attachments/assets/b539d123-e1ef-4663-8820-98dd0a905103)
+
+Artist: KinTto On Pixiv
