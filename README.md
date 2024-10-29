@@ -1,6 +1,6 @@
 # Basic Webcam Recognition
 
-This is just a very basic Webcam Recognition program that uses Jupyter Notebook (Python). It can be used by everyone for some funny texting. 
+This is just a very basic Webcam Recognition program that uses Jupyter Notebook (Python). It can be used by everyone for some funny testing. 
 
 ## Installation
 
@@ -22,5 +22,5 @@ known_face_names = ["Lamb Whisper"]  # Add more as needed
 
 ## Contributing
 
-There just only me, Lamb Whispers. 
+There is just only me, Lamb Whispers. 
 ![108906351_p2](https://github.com/user-attachments/assets/b539d123-e1ef-4663-8820-98dd0a905103)
