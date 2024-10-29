@@ -5,7 +5,7 @@ This is just a very basic Webcam Recognition program that uses Jupyter Notebook 
 ## Installation
 
 1. Download the file directly from GitHub, you can download through ZIP.
-2. Use the file anywhere that could handle .ipynb files, you should use Jupyter Notebook. If you haven't installed Jupyter Notebook yet, then I recommended you to download it through [here.](https://jupyter.org/install)
+2. Use the file anywhere that could handle .ipynb files, however, I recommend Jupyter Notebook. If you haven't installed Jupyter Notebook yet, then I recommended you to install it through [here.](https://jupyter.org/install)
 3. Once you are ready, please give the info of your faces/recognitions by changing the code inside the file. Remember to place the information at the right directory. 
 
 ```python
